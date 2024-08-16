@@ -21,4 +21,6 @@ The project is expected to yield distinct customer segments based on their behav
 
 ## Documentation
 
-[]() 
+[customer_segmentation.ipynb](https://github.com/micsupasun/clustering/blob/main/customer_segmentation/customer_segmentation.ipynb) is a Customer segmentation code project
+
+[Train.csv](https://github.com/micsupasun/clustering/blob/main/customer_segmentation/Train.csv) is a train dataset for Customer segmentation project
